@@ -13,13 +13,13 @@ const cardsDb = {
       {
         title: "Exercise 1 - Breaking the Ice",
         subtitle:
-          "Where do LLMs live in our professional practices, norms and relationships?",
+          "Participants sketch how they think an LLM function and present it to the group.",
         picture: photos.image_1,
         text: "Participants sketch how they think an LLM function and present it to the group.",
       },
       {
         title: "Exercise 2 - Taking Stocks",
-        subtitle: "",
+        subtitle: "Participants review their ChatGPT history, noting delegated tasks and their feelings about them.",
         text: "This phase involves assessing current strengths and weaknesses. Participants reflect on their achievements, identify growth areas, and discuss obstacles they've faced. Through guided prompts, this exercise promotes self-awareness and sets a foundation for planning future goals. It's a moment for introspection and honest evaluation.",
         picture: photos.image_6,
       },
